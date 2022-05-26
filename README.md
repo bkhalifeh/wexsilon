@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wexsilon
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wexsilon2001@protonmail.com
 

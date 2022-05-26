@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wexsilon
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in android
 - 📫 How to reach me wexsilon2001@protonmail.com
 
 <!---
